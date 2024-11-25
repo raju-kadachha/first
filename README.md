@@ -1,2 +1,2 @@
 # first
-Learning Git
+Learning Git Day 1
